@@ -6,7 +6,7 @@
 - Give each player four cards from each stack. Give each player a level token. Everyone starts at level 1. 
 
 ### Cards
-- Item cards: Items have a price at the bottom om the card and "_+ some-number_" at the top of the card. 
+- Item cards: Items have a price at the bottom of the card and "_+ some-number_" at the top of the card. 
 - Monster cards: Monster cards have a level and name at the top of the card and "_some-number Treasures_" at the bottom. 
 - Curse cards: Curse cards have "_Curse!_" at the top of the card.
 - Race cards: Race cards have "race" at the bottom of the card.
