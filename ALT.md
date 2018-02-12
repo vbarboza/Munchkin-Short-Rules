@@ -24,7 +24,7 @@ A player's class won't change during the game (unless he/she is cursed or killed
   - _A Super Munchkin draws 2 more cards from this set._
   - _If a Super Munchkin draws the same class card twice, penalties won't apply._
   
-** Rationale:** Unexperienced players will get used to class abilities and class exclusive items.
+**Rationale:** Unexperienced players will get used to class abilities and class exclusive items.
 
 ### Door stack
 
